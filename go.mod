@@ -1,4 +1,4 @@
-module github.com/topfreegames/pitaya/v3
+module github.com/xdouzi/pitaya/v3
 
 go 1.22.0
 
